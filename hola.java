@@ -1,1 +1,1 @@
-int nivelAgua;
+int edad;
